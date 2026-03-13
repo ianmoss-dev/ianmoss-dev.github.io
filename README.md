@@ -1,7 +1,12 @@
 # Ian Moss
 
-Active Army officer. Taught environmental engineering at West Point.  
-Currently: coding my kids' business ideas so I don't have to give them allowance anymore.
+<img src="unnamed2.jpg" width="200" align="right"/>
+
+- Army Officer
+- Operations Research
+- Environmental Engineer
+- Mechanical Engineer
+- NY → ETH → NY → MO → HI → WA → MO → TX → GA → NY → MRY
 
 ---
 
