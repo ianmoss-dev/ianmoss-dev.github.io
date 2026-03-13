@@ -3,10 +3,10 @@
 <img src="unnamed2.jpg" width="200" align="right"/>
 
 - Army Officer
-- Operations Research
+- Operations Researcher
 - Environmental Engineer
 - Mechanical Engineer
-- NY → ETH → NY → MO → HI → WA → MO → TX → GA → NY → MRY
+- NY → ETH → NY → MO → HI → WA → MO → TX → GA → NY → MRY → ?
 
 ---
 
@@ -24,10 +24,10 @@ I have three children. They have three business ideas.
 
 ### My Projects
 
-| Repo | What it actually is |
+| Repo | What it does |
 |------|------------|
-| [surfsup](https://github.com/ianmoss-dev/surfsup) | Efficient weekend surf preparation. Monterey conditions, tides, swell. And a goofy API to tell me where to go and when. |
-| [Fire_For_Effect](https://github.com/ianmoss-dev/Fire_For_Effect) | Financial planning tool for Soldiers. |
+| [surfsup](https://github.com/ianmoss-dev/surfsup) | Efficient weekend surf preparation. Monterey conditions, tides, swell. And a proprietary algorithm to find the best spot for my lack of abilities and general fear . |
+| [Fire_For_Effect](https://github.com/ianmoss-dev/Fire_For_Effect) | A Financial planning tool for Soldiers. |
 | [QR-Generator](https://github.com/ianmoss-dev/QR-Generator) | Generates QR codes. Highlight of my career thus far. |
 
 ---
@@ -35,26 +35,15 @@ I have three children. They have three business ideas.
 ### Languages
 
 ```
-Python        ████████░░   getting somewhere
-HTML/CSS      ██████░░░░   functional
-JavaScript    ████░░░░░░   a work in progress
-Military      ██████████   primary skill set
-Parenting     ███░░░░░░░   tbd.
+Python        ███████░░░   getting somewhere
+HTML/CSS      ███░░░░░░░   functional
+JavaScript    ██░░░░░░░░   a work in progress
+Military      █████████░   primary skill set
+Parenting     [---------]   ERROR: task incomplete
 ```
-
----
-
-### Current
-
-- 📍 Monterey, CA  
----
-
-### Future?
-
-- 📍 TBD 
 
 ---
 > "Never trust a survivor until you know what he did to stay alive." — Kurt Vonnegut
 ---
 
-`ianmoss-dev` · The problems are obvious and so are the solutions → VC/Angel Investor for elementary-aged kids
+`ianmoss-dev` · The problems are as obvious as the solutions → Angel Investor for elementary-aged kids
