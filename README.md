@@ -7,6 +7,10 @@
 - Environmental Engineer
 - Mechanical Engineer
 - NY → ETH → NY → MO → HI → WA → MO → TX → GA → NY → MRY → ?
+---
+## Contact Me
+- **Email:** ian.moss@nps.edu
+- **LinkedIn:** [Ian Moss](https://www.linkedin.com/in/ian-moss-14656986/)
 
 ---
 
@@ -16,9 +20,11 @@ I have three children. They have three business ideas.
 
 | Repo | The Pitch |
 |------|-----------|
-| [La-Mesa-Clean](https://github.com/ianmoss-dev/La-Mesa-Clean) | Son #1 cleans trash cans. Uses my powerwasher, my gas, my time, and he keeps the money: unsustainable. |
-| [Pizza_Palooza](https://github.com/ianmoss-dev/Pizza_Palooza) | Son #2 delivers Costco pizza. Cold. For an upcharge. Customer base is suprisingly stagnant. |
-| [La-Mesa-Leash-Co.](https://github.com/ianmoss-dev/La-Mesa-Leash-Co.) | Daughter wants a dog. I said no. Compromise: she walks other people's for $5. Everyone wins: for now. |
+| [La-Mesa-Clean](https://github.com/ianmoss-dev/La-Mesa-Clean) | Child #1 cleans trash cans. Uses my powerwasher, my gas, my time, and he keeps the money: unsustainable. |
+| [Pizza_Palooza](https://github.com/ianmoss-dev/Pizza_Palooza) | Child #2 delivers Costco pizza. Cold. For an upcharge. Customer base is suprisingly stagnant. |
+| [La-Mesa-Leash-Co.](https://github.com/ianmoss-dev/La-Mesa-Leash-Co.) | Child #3 wants a dog. I said no. Compromise: she walks other people's for $5. Everyone wins: for now. |
+
+> *For the record: the children have names. Numbering reflects order of appearance, not ranking, nor preference. Usually.*
 
 ---
 
